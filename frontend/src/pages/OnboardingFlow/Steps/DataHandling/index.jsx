@@ -291,7 +291,7 @@ export const VECTOR_DB_PRIVACY = {
 
 export const EMBEDDING_ENGINE_PRIVACY = {
   native: {
-    name: "AnythingLLM Embedder",
+    name: " Binary Digital Employees",
     description: [
       "Your document text is embedded privately on this instance of AnythingLLM",
     ],

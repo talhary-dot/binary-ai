@@ -40,7 +40,7 @@ export default function Sidebar() {
               <img
                 src={logo}
                 alt="Logo"
-                className={`rounded  max-h-[7em] object-cover  transition-opacity duration-500 ${showSidebar ? "opacity-100" : "opacity-0"}`}
+                className={`rounded  max-h-[4em] w-[100%] object-cover  transition-opacity duration-500 ${showSidebar ? "opacity-100" : "opacity-0"}`}
               />
             </Link>
             {canToggleSidebar && (
